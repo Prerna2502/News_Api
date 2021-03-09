@@ -1,0 +1,8 @@
+.card-columns {
+    column-gap: 10px;
+}
+
+.search-heading {
+    font-size:200%;
+    font-weight: bolder;
+}
